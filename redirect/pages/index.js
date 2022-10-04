@@ -7,7 +7,7 @@ export default function Home() {
     <div>
       <h1>
         This link got some problems so i changed it to{" "}
-        <a href="https://vercel.com/hoangluan97/clone">Click here</a>
+        <a href="https://hoangluanbk97-cloneapp.vercel.app/">Click here</a>
       </h1>
       <p>I'm so sorry about this inconvenience</p>
     </div>
